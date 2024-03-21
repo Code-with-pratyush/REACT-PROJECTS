@@ -1,0 +1,5 @@
+The <ThemeProvider> component wraps its child components and provides the Material-UI theme defined by the theme object to all descendant Material-UI components within the component tree.
+
+By wrapping components with <ThemeProvider>, those components can access the Material-UI theme and apply the defined styles to their respective elements.
+
+This pattern allows for the consistent styling of Material-UI components throughout the application by providing a centralized theme configuration. Components that need access to the theme can simply consume it using the ThemeProvider.

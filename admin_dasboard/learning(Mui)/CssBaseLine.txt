@@ -1,0 +1,5 @@
+The <CssBaseline> component is placed at the top level of the application component hierarchy, typically within the ThemeProvider component.
+
+By including <CssBaseline> in the application, it ensures that consistent baseline styles are applied to all HTML elements, which helps in achieving a consistent look and feel across different browsers and devices.
+
+The styles applied by <CssBaseline> serve as a foundation upon which the rest of the application's styles can be built, ensuring a more predictable and consistent styling experience.
